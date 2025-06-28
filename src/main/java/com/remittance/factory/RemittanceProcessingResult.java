@@ -13,4 +13,7 @@ public class RemittanceProcessingResult {
     private FraudCheckResult fraudResult;
     private ComplianceResult complianceResult;
     private PaymentResult paymentResult;
+
+    public RemittanceProcessingResult(boolean b, String s) {
+    }
 }

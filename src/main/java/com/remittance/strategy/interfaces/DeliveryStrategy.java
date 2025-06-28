@@ -1,4 +1,4 @@
-package com.remittance.strategy;
+package com.remittance.strategy.interfaces;
 
 public interface DeliveryStrategy {
     void deliver();
